@@ -1,10 +1,8 @@
-[Smart Mocker]
+##Smart Mocker
 
 Smart Mocker is an AI-powered platform designed to help users enhance their interview skills through mock interviews. Users can select their job role, tech stack, and years of experience, and the platform dynamically generates interview questions. After answering the questions, the AI provides correct answers, feedback, and ratings to help users improve.
 
-
-
-Features
+##Features
 User Authentication: Secure login and personalized dashboard.
 Dynamic Interview Questions: Tailored questions based on job role, tech stack, and experience.
 AI-Powered Feedback: Instant feedback, correct answers, and ratings for submitted responses.
